@@ -1,2 +1,2 @@
 #!/bin/bash
-sed '12p' iacta
+sed '14p' iacta
