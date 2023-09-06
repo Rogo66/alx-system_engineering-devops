@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "ibase=2#101011" 
+echo -e "$((2#101011))"
